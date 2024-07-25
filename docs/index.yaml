@@ -3,6 +3,14 @@ entries:
   cp-helm-charts:
   - apiVersion: v1
     appVersion: "1.0"
+    created: "2024-07-24T20:29:45.929443-07:00"
+    description: A Helm chart for Confluent Platform Community Edition
+    name: cp-helm-charts
+    urls:
+    - cp-helm-charts-0.6.1-appfolio-custom.tgz
+    version: 0.6.1-appfolio-custom
+  - apiVersion: v1
+    appVersion: "1.0"
     created: "2021-04-12T22:21:10.971668-04:00"
     description: A Helm chart for Confluent Platform Community Edition
     digest: 3e37b1b487831cd3bfb6f8cf5f39d9226c9b16a1ef379c7274ad910e8568bf18
